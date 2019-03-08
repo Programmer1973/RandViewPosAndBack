@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandViewPosAndBack</string>
+    <string name="click_button">click</string>
+    <string name="text_view_text">Hello World!</string>
+</resources>
